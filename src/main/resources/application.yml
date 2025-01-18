@@ -1,0 +1,10 @@
+aws:
+  region: sa-east-1
+  name: meu-bucket-avatar
+
+gravatar:
+  default:
+    email: default@example.com
+    url: https://www.gravatar.com/avatar/
+    image: ?d=mp
+
