@@ -18,3 +18,8 @@ Contém a classe handlers necessária para trabalhar com o serviço lambda da AW
 
 
 ### A classe controller não se faz necessária, poderia muito bem acessar a camada "Services" diretamente.
+
+## Video Explicativo
+
+[Assista ao vídeo](https://youtu.be/W-8Bnf79SiQ)
+
